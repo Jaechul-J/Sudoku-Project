@@ -1,0 +1,14 @@
+---
+:id: 98993468
+:submitters:
+- :name: Harper M. Smith
+  :email: smithhar@grinnell.edu
+- :name: Jae Chul Jung
+  :email: jungjaec@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-08 18:44:54.095507000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-08 10:44:54.095507000 Z
+:status: processed
+:score: 100.0
